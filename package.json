@@ -1,0 +1,25 @@
+{
+  "name": "mhxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "gem": "./bin/gem.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gejiawen/mhxy.git"
+  },
+  "author": "gejiawen <806717031@qq.com> (http://blog.gejiawen.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gejiawen/mhxy/issues"
+  },
+  "homepage": "https://github.com/gejiawen/mhxy#readme",
+  "dependencies": {
+    "commander": "^2.13.0"
+  }
+}
